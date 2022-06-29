@@ -2,9 +2,9 @@
 
 Diplomado Desarrollo de Aplicaciones con Inteligencia Artificial (DIA-2022). 
 
-Curso: Desarrollo de Aplicaciones con Visión Artificial
+# Curso: Desarrollo de Aplicaciones con Visión Artificial
 
 
-Colección de dataset de imágenes de COVID-9:
+Colección de dataset de imágenes de COVID-19:
 
 **https://github.com/ieee8023/covid-chestxray-dataset**
